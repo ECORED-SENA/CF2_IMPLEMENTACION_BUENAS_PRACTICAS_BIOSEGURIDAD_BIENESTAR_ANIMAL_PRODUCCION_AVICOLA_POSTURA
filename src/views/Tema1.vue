@@ -175,35 +175,35 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Mayor bioseguridad 
+                  p.mb-0 Mayor bioseguridad.
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Menor contacto con excretas 
+                  p.mb-0 Menor contacto con excretas.
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Registro individualizado 
+                  p.mb-0 Registro individualizado.
               h5 Desventajas:   
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Movilidad restringida 
+                  p.mb-0 Movilidad restringida.
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Ausencia de estímulos 
+                  p.mb-0 Ausencia de estímulos.
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Riesgo de lesiones óseas  
+                  p.mb-0 Riesgo de lesiones óseas.
               h5 Recomendaciones ICA:   
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 ≤9 aves/m²  
+                  p.mb-0 ≤9 aves/m².
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 18-24 °C 
+                  p.mb-0 18-24 °C.
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Luz regulada y enriquecimiento ambiental  
+                  p.mb-0 Luz regulada y enriquecimiento ambiental.
           .row.align-items-center.p-4.p-md-5
             .col-lg-6.order-2
               figure
@@ -215,35 +215,35 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Mayor movilidad 
+                  p.mb-0 Mayor movilidad.
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Reducción del estrés  
+                  p.mb-0 Reducción del estrés.
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Mejor plumaje 
+                  p.mb-0 Mejor plumaje.
               h5 Desventajas:   
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Riesgo respiratorio  
+                  p.mb-0 Riesgo respiratorio.
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Necesidad de limpieza constante 
+                  p.mb-0 Necesidad de limpieza constante.
               h5 Indicadores clave:    
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Humedad de cama <30 %   
+                  p.mb-0 Humedad de cama <30 %.
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Amoníaco <20 ppm 
+                  p.mb-0 Amoníaco <20 ppm.
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 7-9 aves/m² 
+                  p.mb-0 7-9 aves/m².
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 1 nido/5-6 gallinas
+                  p.mb-0 1 nido/5-6 gallinas.
           .row.align-items-center.p-4.p-md-5
             .col-lg-6.order-2
               figure
@@ -255,29 +255,29 @@
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Alta libertad de movimiento 
+                  p.mb-0 Alta libertad de movimiento.
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Bajo estrés  
+                  p.mb-0 Bajo estrés.
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Comportamientos naturales completos 
+                  p.mb-0 Comportamientos naturales completos.
               h5 Desventajas:   
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Exposición a predadores 
+                  p.mb-0 Exposición a predadores.
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Infraestructura limitada 
+                  p.mb-0 Infraestructura limitada.
               h5 Evaluación ICA:   
               ul.lista-ul--color
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 60 % MBA + 40 % MBR  
+                  p.mb-0 60 % MBA + 40 % MBR.
                 li.mb-0.d-flex
                   i.fas.fa-circle-check.bg-color-6
-                  p.mb-0 Certificables si >80 % (según Resolución ICA 16409 de 2024)
+                  p.mb-0 Certificables si > 80 % (según Resolución ICA 16409 de 2024).
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -368,22 +368,22 @@
                 ul.lista-ul--color
                   li.d-flex
                     i.fas.fa-circle-check.bg-color-6
-                    p.mb-0 Integridad física y salud
+                    p.mb-0 Integridad física y salud.
                   li.d-flex
                     i.fas.fa-circle-check.bg-color-6
-                    p.mb-0 Estado fisiológico adecuado
+                    p.mb-0 Estado fisiológico adecuado.
                   li.d-flex
                     i.fas.fa-circle-check.bg-color-6
-                    p.mb-0 Expresión de comportamientos naturales
+                    p.mb-0 Expresión de comportamientos naturales.
                   li.d-flex
                     i.fas.fa-circle-check.bg-color-6
-                    p.mb-0 Control del estrés crónico
+                    p.mb-0 Control del estrés crónico.
                   li.d-flex
                     i.fas.fa-circle-check.bg-color-6
-                    p.mb-0 Evaluación continua del bienestar
+                    p.mb-0 Evaluación continua del bienestar.
                   li.d-flex
                     i.fas.fa-circle-check.bg-color-6
-                    p.mb-0 Justificación ética y científica de las prácticas de manejo
+                    p.mb-0 Justificación ética y científica de las prácticas de manejo.
 
     .titulo-con-imagen.mb-5(data-aos="fade-right")
       .titulo-con-imagen__fondo
@@ -411,19 +411,19 @@
                 tbody.bg-color-white
                   tr.bg-color-sintesis
                     th Jaula
-                    td Movimiento restringido; riesgo óseo
-                    td Lesiones en patas, quilla y plumaje
-                    td Aumentar espacio, incorporar perchas, suplementar minerales
+                    td Movimiento restringido; riesgo óseo.
+                    td Lesiones en patas, quilla y plumaje.
+                    td Aumentar espacio, incorporar perchas, suplementar minerales.
                   tr
                     th Piso
-                    td Contacto con cama; riesgo sanitario
-                    td Pododermatitis, limpieza del plumaje, mortalidad
-                    td Mantener cama seca, buena ventilación, plan sanitario
+                    td Contacto con cama; riesgo sanitario.
+                    td Pododermatitis, limpieza del plumaje, mortalidad.
+                    td Mantener cama seca, buena ventilación, plan sanitario.
                   tr.bg-color-sintesis
                     th Traspatio
-                    td Exposición ambiental
-                    td Parasitismo, heridas, condición corporal
-                    td Refugio nocturno, control de parásitos, vacunación
+                    td Exposición ambiental.
+                    td Parasitismo, heridas, condición corporal.
+                    td Refugio nocturno, control de parásitos, vacunación.
 
         p.mb-5 El bienestar físico depende de un manejo preventivo, monitoreo constante y detección temprana de signos clínicos como jadeo, letargo o anorexia.
 
@@ -451,19 +451,19 @@
                 tbody.bg-color-white
                   tr.bg-color-sintesis
                     th Jaula
-                    td Temperatura, ventilación, agua y alimento
-                    td Consumo, jadeo, temperatura corporal
-                    td Ventiladores, flujo de aire, dieta ajustada
+                    td Temperatura, ventilación, agua y alimento.
+                    td Consumo, jadeo, temperatura corporal.
+                    td Ventiladores, flujo de aire, dieta ajustada.
                   tr
                     th Piso
-                    td Cama, densidad, microclima
-                    td Humedad &lt;30 %, peso homogéneo, descanso
-                    td Reducir densidad, mejorar bebederos y luz
+                    td Cama, densidad, microclima.
+                    td Humedad &lt;30 %, peso homogéneo, descanso.
+                    td Reducir densidad, mejorar bebederos y luz.
                   tr.bg-color-sintesis
                     th Traspatio
-                    td Clima, refugio, acceso a agua
-                    td Hidratación, sombra, alimento balanceado
-                    td Cobertizos, bebederos sombreados, suplemento proteico
+                    td Clima, refugio, acceso a agua.
+                    td Hidratación, sombra, alimento balanceado.
+                    td Cobertizos, bebederos sombreados, suplemento proteico.
 
     p.mb-5 La temperatura ideal debe oscilar entre 18 °C y 26 °C, con un consumo de agua diario de 200-300 ml por ave (más en climas cálidos).
 
@@ -493,19 +493,19 @@
                 tbody.bg-color-white
                   tr.bg-color-sintesis
                     th Jaula
-                    td Severamente restringidos
-                    td Picaje, apatía, deterioro del plumaje
-                    td Enriquecimiento ambiental, perchas, objetos de picoteo
+                    td Severamente restringidos.
+                    td Picaje, apatía, deterioro del plumaje.
+                    td Enriquecimiento ambiental, perchas, objetos de picoteo.
                   tr
                     th Piso
-                    td Parcialmente expresados
-                    td Jerarquía estable, bajo estrés
-                    td Espacio adecuado, iluminación gradual
+                    td Parcialmente expresados.
+                    td Jerarquía estable, bajo estrés.
+                    td Espacio adecuado, iluminación gradual.
                   tr.bg-color-sintesis
                     th Traspatio
-                    td Plenamente expresados
-                    td Actividad diurna normal, curiosidad
-                    td Supervisión, evitar hacinamiento nocturno
+                    td Plenamente expresados.
+                    td Actividad diurna normal, curiosidad.
+                    td Supervisión, evitar hacinamiento nocturno.
 
 
         p.mb-5 La posibilidad de expresar conductas naturales es un marcador directo del bienestar mental y emocional. Debe promoverse incluso en sistemas intensivos.
@@ -534,19 +534,19 @@
                 tbody.bg-color-white
                   tr.bg-color-sintesis
                     th Jaula
-                    td Ruido, calor, manipulación brusca
-                    td Jadeo, anorexia, picaje
-                    td Manejo tranquilo, regulación térmica
+                    td Ruido, calor, manipulación brusca.
+                    td Jadeo, anorexia, picaje.
+                    td Manejo tranquilo, regulación térmica.
                   tr
                     th Piso
-                    td Competencia por alimento o espacio
-                    td Agresividad, huida, falta de descanso
-                    td Distribución equitativa del alimento, menor densidad
+                    td Competencia por alimento o espacio.
+                    td Agresividad, huida, falta de descanso.
+                    td Distribución equitativa del alimento, menor densidad.
                   tr.bg-color-sintesis
                     th Traspatio
-                    td Amenazas externas, falta de rutina
-                    td Nerviosismo, aislamiento, baja postura
-                    td Cercas, establecimiento de rutinas, refugios seguros
+                    td Amenazas externas, falta de rutina.
+                    td Nerviosismo, aislamiento, baja postura.
+                    td Cercas, establecimiento de rutinas, refugios seguros.
 
 
     p.mb-5 Altos niveles de corticosterona, pérdida de peso, menor ovulación y deterioro del plumaje son indicadores fisiológicos de estrés crónico.
@@ -647,10 +647,6 @@
                       li.d-flex
                         i.fas.fa-circle-check.bg-color-6
                         p.mb-0 Responde a las exigencias del mercado nacional e internacional en materia de bienestar animal.
-
-
-
-
 
 </template>
 

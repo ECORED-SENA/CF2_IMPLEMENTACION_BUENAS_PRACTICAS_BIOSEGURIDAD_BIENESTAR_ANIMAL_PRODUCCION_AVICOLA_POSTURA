@@ -193,8 +193,6 @@
                     td Verificación del cumplimiento de acciones correctivas.
                     td Auditor o supervisor.
 
-    
-
     separador
     
     #t_8_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
@@ -234,7 +232,6 @@
                     td < 60 %
                     td Bajo
                     td No cumple; no certificable hasta implementar mejoras.
-
         
         #t_8_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
           h2 8.5 Indicadores más evaluados durante la auditoría
@@ -267,8 +264,6 @@
                     td MBG - Gestión
                     td Protocolos documentados, registros de limpieza, capacitación.
                     td Evidencias físicas verificables.
-
-        
 
         p.mb-5 Observaciones según el sistema de producción:
     
@@ -388,25 +383,23 @@
                   tr.bg-color-sintesis
                     td Resolución ICA 067449 de 2020
                     td ICA
-                    td Reglamenta las Buenas Prácticas Avícolas y auditoría
+                    td Reglamenta las Buenas Prácticas Avícolas y auditoría.
                   tr
                     td Resolución ICA 3651 de 2014
                     td ICA
-                    td Define requisitos para certificación en bioseguridad
+                    td Define requisitos para certificación en bioseguridad.
                   tr.bg-color-sintesis
                     td Resolución ICA 16409 de 2024
                     td ICA
-                    td Establece lineamientos para la certificación en bienestar animal
+                    td Establece lineamientos para la certificación en bienestar animal.
                   tr
                     td Manual de Bienestar Animal (2023)
                     td MADR
-                    td Proporciona lineamientos técnicos y éticos para el manejo animal
+                    td Proporciona lineamientos técnicos y éticos para el manejo animal.
                   tr.bg-color-sintesis
                     td Decreto 1500 de 2007 / INVIMA
                     td Ministerio de Salud
-                    td Regula la inocuidad de productos de origen animal
-
-
+                    td Regula la inocuidad de productos de origen animal.
     
     .bg-color-8.mb-5
       .row.align-items-center

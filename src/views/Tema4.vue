@@ -96,42 +96,42 @@
                 tbody.bg-color-white
                   tr.bg-color-sintesis
                     td Condición corporal
-                    td Escala de 1 (delgada) a 5 (óptima)
+                    td Escala de 1 (delgada) a 5 (óptima).
                     td ≥ 3
                     td Evaluar estado fisiológico y nutricional.
                   tr
                     td Calidad del plumaje
-                    td % de aves con plumaje completo
+                    td % de aves con plumaje completo.
                     td ≥ 85 %
                     td Identificar confort, salud y ausencia de picaje.
                   tr.bg-color-sintesis
                     td Lesiones en patas o pechuga
-                    td % de aves sin lesiones
+                    td % de aves sin lesiones.
                     td ≥ 90 %
                     td Verificar confort ambiental y condiciones sanitarias.
                   tr
                     td Comportamiento activo
-                    td % de aves que anidan o se acicalan
+                    td % de aves que anidan o se acicalan.
                     td ≥ 70 %
                     td Medir bienestar mental y libertad conductual.
                   tr.bg-color-sintesis
                     td Densidad de alojamiento
-                    td Aves por metro cuadrado (sistema piso)
+                    td Aves por metro cuadrado (sistema piso).
                     td ≤ 9 aves/m²
                     td Garantizar espacio adecuado y confort físico.
                   tr
                     td Nivel de amoníaco
-                    td Concentración en aire del galpón
+                    td Concentración en aire del galpón.
                     td < 20 ppm
                     td Evaluar ventilación y calidad del ambiente.
                   tr.bg-color-sintesis
                     td Mortalidad semanal
-                    td % del lote
+                    td % del lote.
                     td < 0.5 %
                     td Reflejar el estado sanitario y la efectividad del manejo.
                   tr
                     td Capacitación del personal
-                    td Horas de formación anuales
+                    td Horas de formación anuales.
                     td ≥ 20 horas certificadas
                     td Fortalecer las competencias técnicas en bienestar animal.
 

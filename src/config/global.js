@@ -1,7 +1,7 @@
 export default {
   global: {
     Name:
-      'Gestión integral de la producción avícola: normatividad, bienestar animal y buenas prácticas.',
+      'Gestión integral de la producción avícola: normatividad, bienestar animal y buenas prácticas',
     Description:
       'El componente fortalece competencias para aplicar principios técnicos, sanitarios y normativos en la producción de huevos. El aprendiz estudiará bienestar animal, bioseguridad y sanidad avícola según las Resoluciones ICA 3651 de 2014 y 067449 de 2020, promoviendo Buenas Prácticas Avícolas, certificación, trazabilidad y sostenibilidad ética alineada con el Ministerio de Agricultura y la <em>WOAH</em>.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),

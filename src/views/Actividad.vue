@@ -21,7 +21,7 @@ export default {
         'Gestión integral de la producción avícola: normatividad, bienestar animal y buenas prácticas',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> evaluar la comprensión y aplicación de los conceptos fundamentales sobre bienestar animal, bioseguridad, sanidad y certificación en la producción avícola de postura..',
+        '<b> Objetivo:</b> evaluar la comprensión y aplicación de los conceptos fundamentales sobre bienestar animal, bioseguridad, sanidad y certificación en la producción avícola de postura.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',

@@ -186,7 +186,7 @@
                 th.bg-color-7 Protección contra
             tbody.bg-color-white
               tr.bg-color-sintesis
-                td Enfermedad de <em>Newcastle</em>
+                td Enfermedad de Newcastle
                 td Vacuna viva La Sota o B1
                 td Día 1
                 td Ocular o spray
@@ -194,7 +194,7 @@
                 td Paramixovirus aviar.
               tr
                 td Bronquitis infecciosa
-                td Cepa <em>Massachusetts</em> o H120
+                td Cepa Massachusetts o H120
                 td Día 1
                 td Ocular o spray
                 td 1 gota / refuerzo a 4 y 8 semanas
@@ -214,8 +214,8 @@
                 td 1 dosis / refuerzo cada 6-9 meses
                 td Virus de viruela aviar.
               tr.bg-color-sintesis
-                td Enfermedad de <em>Marek</em>
-                td Vacuna HVT o <em>Rispens</em>
+                td Enfermedad de Marek
+                td Vacuna HVT o Rispens
                 td Día 1 (incubadora)
                 td Subcutánea (cuello)
                 td 0.2 ml / sin refuerzo
@@ -226,7 +226,7 @@
                 td 8-10 semanas
                 td Subcutánea o intramuscular
                 td 0.5 ml / refuerzo a las 4 semanas
-                td <em>Avibacterium paragallinarum</em>.
+                td Avibacterium paragallinarum.
               tr.bg-color-sintesis
                 td Salmonelosis (S. enteritidis)
                 td Vacuna inactivada
@@ -450,22 +450,22 @@
                 tbody.bg-color-white
                   tr.bg-color-sintesis
                     td Levante (1-16 semanas)
-                    td Vacunación y vermifugación inicial
+                    td Vacunación y vermifugación inicial.
                     td Estimular inmunidad temprana.
                     td Según cronograma ICA / Veterinario.
                   tr
                     td Inicio de postura
-                    td Refuerzos vacunales y control parasitario
+                    td Refuerzos vacunales y control parasitario.
                     td Proteger la entrada al ciclo productivo.
                     td Cada 3-4 meses / según riesgo.
                   tr.bg-color-sintesis
                     td Postura (26-90 semanas)
-                    td Mantenimiento de inmunidad y monitoreo sanitario
+                    td Mantenimiento de inmunidad y monitoreo sanitario.
                     td Prevenir caídas productivas y brotes.
                     td Bioseguridad diaria / monitoreo semanal.
                   tr
                     td Descanso sanitario
-                    td Limpieza profunda y vacío sanitario
+                    td Limpieza profunda y vacío sanitario.
                     td Cortar ciclos infecciosos antes de nuevo lote.
                     td Mínimo 15 días antes del repoblamiento.
 

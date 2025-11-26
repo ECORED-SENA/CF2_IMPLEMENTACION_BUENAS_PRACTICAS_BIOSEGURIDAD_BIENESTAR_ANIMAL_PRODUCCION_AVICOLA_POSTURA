@@ -6,7 +6,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Síntesis  sobre la gestión integral de la producción avícola que organiza aspectos normativos, bienestar animal y buenas prácticas. Incluye definiciones de bienestar animal, modelos principales (cinco libertades y cinco dominios), evaluación del ICA, sistemas de producción, principios clave, decisiones éticas, normas en Colombia, medidas de sanidad y requisitos para certificación ")
+          img(src="@/assets/curso/sintesis.png", alt="Síntesis  sobre la gestión integral de la producción avícola que organiza aspectos normativos, bienestar animal y buenas prácticas. Incluye definiciones de bienestar animal, modelos principales (cinco libertades y cinco dominios), evaluación del ICA, sistemas de producción, principios clave, decisiones éticas, normas en Colombia, medidas de sanidad y requisitos para certificación.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

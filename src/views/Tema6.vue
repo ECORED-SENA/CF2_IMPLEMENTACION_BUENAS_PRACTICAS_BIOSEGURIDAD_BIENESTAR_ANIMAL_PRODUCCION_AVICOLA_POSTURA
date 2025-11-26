@@ -293,19 +293,19 @@
                   tr.bg-color-sintesis
                     td ≥ 90 %
                     td Excelente
-                    td Certificación inmediata
+                    td Certificación inmediata.
                   tr
                     td 80-89 %
                     td Aprobado
-                    td Certificación condicionada
+                    td Certificación condicionada.
                   tr.bg-color-sintesis
                     td 60-79 %
                     td Regular
-                    td Requiere plan de mejoras y revaluación
+                    td Requiere plan de mejoras y revaluación.
                   tr
                     td < 60 %
                     td Deficiente
-                    td Rechazo de la solicitud; suspensión o revocatoria
+                    td Rechazo de la solicitud; suspensión o revocatoria.
 
         
         .titulo-con-imagen.mb-5(data-aos="fade-right")
@@ -424,40 +424,44 @@
                 tbody.bg-color-white
                   tr.bg-color-sintesis
                     td Control de acceso
-                    td Registro de ingreso, pediluvios, ropa exclusiva
-                    td Formato diario firmado
+                    td Registro de ingreso, pediluvios, ropa exclusiva.
+                    td Formato diario firmado.
                   tr
                     td Limpieza y desinfección
-                    td Frecuencias, productos, concentraciones
-                    td Bitácora y fichas técnicas
+                    td Frecuencias, productos, concentraciones.
+                    td Bitácora y fichas técnicas.
                   tr.bg-color-sintesis
                     td Mortalidad
-                    td Retiro diario, compostaje
-                    td Registros y fotografías del proceso
+                    td Retiro diario, compostaje.
+                    td Registros y fotografías del proceso.
                   tr
                     td Agua y alimento
-                    td Análisis microbiológico, limpieza de tanques
-                    td Resultados de laboratorio
+                    td Análisis microbiológico, limpieza de tanques.
+                    td Resultados de laboratorio.
                   tr.bg-color-sintesis
                     td Control de plagas
-                    td Trampas, fumigación, monitoreo
-                    td Informe mensual de control integrado de plagas
+                    td Trampas, fumigación, monitoreo.
+                    td Informe mensual de control integrado de plagas.
                   tr
                     td Sanidad
-                    td Vacunación, vermifugación
-                    td Registros sanitarios oficiales (carné, laboratorio)
+                    td Vacunación, vermifugación.
+                    td Registros sanitarios oficiales (carné, laboratorio).
                   tr.bg-color-sintesis
                     td Residuos
-                    td Manejo ambiental, disposición responsable
-                    td Plan de manejo ambiental y certificados
+                    td Manejo ambiental, disposición responsable.
+                    td Plan de manejo ambiental y certificados.
                   tr
                     td Transporte
-                    td Desinfección de vehículos y guacales
-                    td Guías de movilización ICA, bitácoras de transporte
+                    td Desinfección de vehículos y guacales.
+                    td Guías de movilización ICA, bitácoras de transporte.
                   tr.bg-color-sintesis
                     td Personal
-                    td Capacitaciones y simulacros sanitarios
-                    td Actas firmadas, certificados de formación (>20 h/año)
+                    td Capacitaciones y simulacros sanitarios.
+                    td Actas firmadas, certificados de formación (> 20 h/año).
+                  tr
+                    td Control de acceso
+                    td Registro de ingreso, pediluvios, ropa exclusiva.
+                    td Formato diario firmado.
     
     p.mb-5 La bioseguridad en las granjas avícolas de postura no es una medida aislada, sino un sistema integral, continuo y verificable que:
 

@@ -32,20 +32,20 @@
                     th.bg-color-7 Cinco dominios
                 tbody.bg-color-white
                   tr.bg-color-sintesis
-                    td 1. Libre de hambre y sed
-                    td 1. Nutrición
+                    td 1. Libre de hambre y sed.
+                    td 1. Nutrición.
                   tr
-                    td 2. Libre de incomodidad
-                    td 2. Ambiente físico
+                    td 2. Libre de incomodidad.
+                    td 2. Ambiente físico.
                   tr.bg-color-sintesis
-                    td 3. Libre de dolor, lesión y enfermedad
-                    td 3. Salud
+                    td 3. Libre de dolor, lesión y enfermedad.
+                    td 3. Salud.
                   tr
-                    td 4. Libre para expresar comportamientos normales
-                    td 4. Conducta
+                    td 4. Libre para expresar comportamientos normales.
+                    td 4. Conducta.
                   tr.bg-color-sintesis
-                    td 5. Libre de miedo y angustia
-                    td 5. Estado mental
+                    td 5. Libre de miedo y angustia.
+                    td 5. Estado mental.
 
     p.mb-5 Las libertades orientan los estándares mínimos de trato ético; los dominios permiten un análisis multidimensional, incluyendo el estado emocional del animal.
 
@@ -82,20 +82,19 @@
                 tbody.bg-color-white
                   tr.bg-color-sintesis
                     th Jaula
-                    td Suministro automático controlado
-                    td Uso de bebederos tipo niple, comederos lineales
-                    td Obstrucción de líneas, fallas en dosificación
+                    td Suministro automático controlado.
+                    td Uso de bebederos tipo niple, comederos lineales.
+                    td Obstrucción de líneas, fallas en dosificación.
                   tr
                     th Piso
-                    td Distribución equitativa, control de consumo
-                    td Comederos ajustables, bebederos circulares
-                    td Competencia por alimento, residuos
+                    td Distribución equitativa, control de consumo.
+                    td Comederos ajustables, bebederos circulares.
+                    td Competencia por alimento, residuos.
                   tr.bg-color-sintesis
                     th Traspatio
-                    td Alimentación manual y natural
-                    td Mezcla de concentrado con forraje o restos vegetales
-                    td Agua contaminada, deficiencia nutricional
-
+                    td Alimentación manual y natural.
+                    td Mezcla de concentrado con forraje o restos vegetales.
+                    td Agua contaminada, deficiencia nutricional.
         
         p.mb-5 La deficiencia en agua o alimento genera estrés fisiológico, reduce la producción de huevo y afecta la salud ósea. El bienestar comienza con una nutrición adecuada (<em>FAWC</em>, <em>WOAH</em>, 2021).
 
@@ -123,20 +122,19 @@
                 tbody.bg-color-white
                   tr.bg-color-sintesis
                     th Jaula
-                    td Espacio restringido, ventilación artificial
-                    td Control térmico (18-24 °C), ventilación continua
-                    td Estrés térmico, lesiones por alambres
+                    td Espacio restringido, ventilación artificial.
+                    td Control térmico (18-24 °C), ventilación continua.
+                    td Estrés térmico, lesiones por alambres.
                   tr
                     th Piso
-                    td Microclima condicionado por cama y ventilación
-                    td Cama seca (<30 % humedad), cortinas, luz natural controlada
-                    td Humedad elevada → pododermatitis
+                    td Microclima condicionado por cama y ventilación.
+                    td Cama seca (<30 % humedad), cortinas, luz natural controlada.
+                    td Humedad elevada → pododermatitis.
                   tr.bg-color-sintesis
                     th Traspatio
-                    td Exposición ambiental directa
-                    td Sombra natural, refugios nocturnos, techo parcial
-                    td Golpes de calor o frío, riesgo de depredadores
-
+                    td Exposición ambiental directa.
+                    td Sombra natural, refugios nocturnos, techo parcial.
+                    td Golpes de calor o frío, riesgo de depredadores.
     
     p.mb-5 El confort físico tiene un efecto directo en la salud y la estabilidad del comportamiento. La <em>WOAH</em> (2019) destaca la importancia de un ambiente seguro y controlado.
 
@@ -163,20 +161,20 @@
                 th.bg-color-7 Riesgos principales
             tbody.bg-color-white
               tr.bg-color-sintesis
-                td Jaula
-                td Vacunación, revisión diaria de patas y quilla
-                td Lesiones óseas, fracturas, afecciones respiratorias
-                td Falta de movimiento → osteoporosis, heridas
+                th Jaula
+                td Vacunación, revisión diaria de patas y quilla.
+                td Lesiones óseas, fracturas, afecciones respiratorias.
+                td Falta de movimiento → osteoporosis, heridas.
               tr
-                td Piso
-                td Desinfección periódica, bioseguridad
-                td Mortalidad, estado del plumaje, signos clínicos
-                td Alta carga bacteriana, coccidiosis
+                th Piso
+                td Desinfección periódica, bioseguridad.
+                td Mortalidad, estado del plumaje, signos clínicos.
+                td Alta carga bacteriana, coccidiosis.
               tr.bg-color-sintesis
-                td Traspatio
-                td Vacunación básica, control de parásitos
-                td Condición corporal, presencia de heridas o parásitos
-                td Depredadores, falta de control sanitario
+                th Traspatio
+                td Vacunación básica, control de parásitos.
+                td Condición corporal, presencia de heridas o parásitos.
+                td Depredadores, falta de control sanitario.
 
     p.mb-5 La observación diaria y el cumplimiento del plan sanitario mejoran el bienestar físico y la longevidad productiva. El ICA (2024) establece la salud y la integridad corporal como criterios centrales en la evaluación del bienestar (MBA).
 
@@ -205,20 +203,20 @@
                     th.bg-color-7 Acciones recomendadas
                 tbody.bg-color-white
                   tr.bg-color-sintesis
-                    td Jaula
-                    td Muy limitado
-                    td Imposibilidad de escarbar o volar
-                    td Enriquecimiento ambiental (perchas, objetos de picoteo)
+                    th Jaula
+                    td Muy limitado.
+                    td Imposibilidad de escarbar o volar.
+                    td Enriquecimiento ambiental (perchas, objetos de picoteo).
                   tr
-                    td Piso
-                    td Moderado
-                    td Escarbado, acicalamiento, percheo
-                    td Espacio >9 aves/m², acceso a nidos
+                    th Piso
+                    td Moderado.
+                    td Escarbado, acicalamiento, percheo.
+                    td Espacio > 9 aves/m², acceso a nidos.
                   tr.bg-color-sintesis
-                    td Traspatio
-                    td Pleno
-                    td Exploración natural, interacción social
-                    td Supervisión de seguridad, refugio nocturno
+                    th Traspatio
+                    td Pleno.
+                    td Exploración natural, interacción social.
+                    td Supervisión de seguridad, refugio nocturno.
 
         p.mb-5 La restricción del comportamiento natural genera estrés, picaje y pérdida de condición corporal. El bienestar psicológico se construye a partir de la libertad de actuar según la biología de la especie.
 
@@ -245,20 +243,20 @@
                     th.bg-color-7 Ejemplos positivos
                 tbody.bg-color-white
                   tr.bg-color-sintesis
-                    td Jaula
-                    td Manipulación brusca, ruido mecánico
-                    td Trato tranquilo, iluminación tenue
-                    td Música ambiental, personal capacitado
+                    th Jaula
+                    td Manipulación brusca, ruido mecánico.
+                    td Trato tranquilo, iluminación tenue.
+                    td Música ambiental, personal capacitado.
                   tr
-                    td Piso
-                    td Cambios bruscos de luz, ingreso de extraños
-                    td Rutinas fijas, movimientos suaves
-                    td Reducción del estrés por habituación
+                    th Piso
+                    td Cambios bruscos de luz, ingreso de extraños.
+                    td Rutinas fijas, movimientos suaves.
+                    td Reducción del estrés por habituación.
                   tr.bg-color-sintesis
-                    td Traspatio
-                    td Depredadores, contacto humano forzado
-                    td Cercado seguro, manejo paciente
-                    td Animales tranquilos, sociables
+                    th Traspatio
+                    td Depredadores, contacto humano forzado.
+                    td Cercado seguro, manejo paciente.
+                    td Animales tranquilos, sociables.
 
     .row.mb-5.align-items-center
       .col-lg-5.mb-3.mb-lg-0
@@ -434,24 +432,24 @@
                     th.bg-color-7 Relación
                 tbody.bg-color-white
                   tr.bg-color-sintesis
-                    td Libre de hambre y sed
-                    td Nutrición
+                    td Libre de hambre y sed.
+                    td Nutrición.
                     td Garantiza bienestar fisiológico básico.
                   tr
-                    td Libre de incomodidad
-                    td Ambiente físico
+                    td Libre de incomodidad.
+                    td Ambiente físico.
                     td Evalúa microclima y confort.
                   tr.bg-color-sintesis
-                    td Libre de dolor, lesión y enfermedad
-                    td Salud
+                    td Libre de dolor, lesión y enfermedad.
+                    td Salud.
                     td Refuerza la prevención y atención veterinaria.
                   tr
-                    td Libre para expresar comportamientos normales
-                    td Interacciones y comportamiento
+                    td Libre para expresar comportamientos normales.
+                    td Interacciones y comportamiento.
                     td Evalúa el grado de expresión conductual natural.
                   tr.bg-color-sintesis
-                    td Libre de miedo y angustia
-                    td Estado mental
+                    td Libre de miedo y angustia.
+                    td Estado mental.
                     td Refleja el equilibrio emocional y psicológico.
 
         p.mb-5 Las cinco libertades establecen condiciones mínimas de bienestar, mientras que los cinco dominios permiten valorar cómo se siente realmente el animal y si experimenta emociones positivas. Ambos modelos son complementarios y pueden aplicarse simultáneamente en certificaciones de bienestar animal (ICA, 2024). El manejo responsable de aves de postura, ya sea en jaula, piso o traspatio, debe considerar ambos marcos de referencia:

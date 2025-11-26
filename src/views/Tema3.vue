@@ -7,7 +7,7 @@
         span 3
       h1 La sintiencia animal
     
-    p.mb-5 La sintiencia animal es un concepto central en el bienestar animal moderno. Se refiere a la capacidad de los animales para percibir y experimentar sensaciones y emociones como el dolor, el placer, el miedo, la alegría o el bienestar. Esta capacidad implica consciencia y subjetividad, es decir, el animal siente y reacciona conscientemente ante su entorno. No se trata solo de respuestas reflejas o instintivas, sino de procesos cognitivos y emocionales complejos. En el caso específico de las aves de postura (<em>Gallus gallus domesticus</em>), la evidencia científica menciona que poseen una vida mental avanzada, con habilidades tales como:
+    p.mb-5 Es un concepto central en el bienestar animal moderno. Se refiere a la capacidad de los animales para percibir y experimentar sensaciones y emociones como el dolor, el placer, el miedo, la alegría o el bienestar. Esta capacidad implica consciencia y subjetividad, es decir, el animal siente y reacciona conscientemente ante su entorno. No se trata solo de respuestas reflejas o instintivas, sino de procesos cognitivos y emocionales complejos. En el caso específico de las aves de postura (<em>Gallus gallus domesticus</em>), la evidencia científica menciona que poseen una vida mental avanzada, con habilidades tales como:
 
     .bg-full-width.bg-color-5
       .px-4.px-md-5
@@ -96,7 +96,7 @@
             .col-lg-6.order-1.mb-3.mb-lg-0
               h5 Manejo diario
               p Manejar el estrés mediante interacciones cuidadosas.  
-              p <b>Ejemplos prácticos</b> Capacitación del personal en etología y manejo calmo.
+              p <b>Ejemplos prácticos</b>. Capacitación del personal en etología y manejo calmo.
           .row.align-items-center.p-4.p-md-5
             .col-lg-6.order-2
               figure
@@ -104,7 +104,7 @@
             .col-lg-6.order-1.mb-3.mb-lg-0
               h5 Transporte
               p Evitar dolor, calor excesivo, golpes y miedo.  
-              p <b>Ejemplos prácticos</b> Aplicar Resolución ICA 136 de 2020 sobre transporte humanitario.
+              p <b>Ejemplos prácticos</b>. Aplicar Resolución ICA 136 de 2020 sobre transporte humanitario.
           .row.align-items-center.p-4.p-md-5
             .col-lg-6.order-2
               figure
@@ -112,7 +112,7 @@
             .col-lg-6.order-1.mb-3.mb-lg-0
               h5 Sacrificio
               p Garantizar métodos éticos y sin sufrimiento innecesario. 
-              p <b>Ejemplos prácticos</b> Uso de aturdimiento previo, conforme al Decreto 1500 de 2007.
+              p <b>Ejemplos prácticos</b>. Uso de aturdimiento previo, conforme al Decreto 1500 de 2007.
       
     separador
     
